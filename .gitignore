@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+vces-dstar-lite/.pytest_cache/
+vces-dstar-lite/.venv/
+vces-dstar-lite/__pycache__/
+
+*.zip
